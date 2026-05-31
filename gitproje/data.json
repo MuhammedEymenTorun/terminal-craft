@@ -1,0 +1,23 @@
+{
+    "name": "steve",
+    "power": 1.5,
+    "gender": "male",
+    "health": 10,
+    "hungry": 10,
+    "inventory": {
+        "block": {
+            "soil": 0,
+            "wood": 0,
+            "stone": 0,
+            "iron": 0,
+            "gold": 0,
+            "diamond": 0
+        },
+        "weapons": [],
+        "foods": {
+            "cow_meat": 0,
+            "sheep_meat": 0,
+            "chicken": 0
+        }
+    }
+}
